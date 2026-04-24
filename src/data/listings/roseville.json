@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "professional-mold-inspections-roseville",
+    "name": "Professional Mold Inspections",
+    "city": "roseville",
+    "state": "CA",
+    "address": "6377 Buckskin Lane, Roseville, California 95747",
+    "lat": 38.789579,
+    "lng": -121.3406437,
+    "phone": "(916) 655-9500",
+    "website": "https://www.pmimoldinspections.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Locally owned business in Roseville with 35 years of experience offering certified mold inspections and testing for properties in Sacramento, Placer, El Dorado, and Sutter Counties.",
+    "certifications": [],
+    "services": [
+      "mold inspections",
+      "mold testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:20",
+    "sentiment": null
+  }
+]

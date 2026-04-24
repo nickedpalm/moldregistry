@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "mold-air-quality-professionals-nw-ohio-se-michigan",
+    "name": "Mold & Air Quality Professionals",
+    "city": "nw-ohio-se-michigan",
+    "state": "MI",
+    "address": "Not provided",
+    "lat": 0,
+    "lng": 0,
+    "phone": "734-755-3457",
+    "website": "https://www.moldaqp.com",
+    "email": "glambmold54@gmail.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Full-service mold inspection, testing, and remediation firm established in 2002. Staff includes Forensic Environmental Specialists and Industrial Hygiene Consultants.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "mold remediation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:45",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "professional",
+        "thorough",
+        "prompt",
+        "knowledgeable",
+        "affordable",
+        "courteous"
+      ],
+      "highlights": [
+        {
+          "text": "Greg was on time and gave us a thorough inspection, He took his time to go over the inspection",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Excellent to work with and very informative.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The mold process was affordable and performed on time. Greg and his staff were very thorough.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We have recommended him to other neighbors.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Mold & Air Quality Professionals has an excellent reputation with consistently positive reviews praising professionalism, thoroughness, prompt service, and customer-friendly explanations."
+    }
+  }
+]

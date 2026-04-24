@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "big-moose-home-inspections-greater-michigan-northern-wisconsin",
+    "name": "Big Moose Home Inspections",
+    "city": "greater-michigan-northern-wisconsin",
+    "state": "WI",
+    "address": "",
+    "lat": 0,
+    "lng": 0,
+    "phone": "(800) 531-0233",
+    "website": "https://www.bigmoosehomeinspections.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Mold testing and inspection services for Greater Michigan and Northern Wisconsin areas",
+    "certifications": [],
+    "services": [
+      "Mold Testing",
+      "Mold Inspection"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:56",
+    "sentiment": null
+  }
+]

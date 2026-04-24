@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "mold-testing-new-york-city-hbh-patchogue",
+    "name": "Mold Testing New York City (HB&H)",
+    "city": "patchogue",
+    "state": "NY",
+    "address": "",
+    "lat": 40.7656539,
+    "lng": -73.0151084,
+    "phone": "",
+    "website": "https://moldtestingnewyorkcity.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Specializes in indoor environmental investigations and mold assessments with Certified Indoor Environmentalist on staff. Offices in Manhattan and Patchogue. Serves Tri-State area.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "mold assessment",
+      "mold inspection",
+      "mold removal",
+      "mold remediation",
+      "residential air testing",
+      "commercial air testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:30",
+    "sentiment": null
+  }
+]

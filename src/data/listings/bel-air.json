@@ -1,0 +1,93 @@
+[
+  {
+    "slug": "harford-radon-real-estate-repair-services-bel-air",
+    "name": "Harford Radon & Real Estate Repair Services",
+    "city": "bel-air",
+    "state": "MD",
+    "address": "",
+    "lat": 39.5797515,
+    "lng": -78.8531894,
+    "phone": "",
+    "website": "https://www.harfordradon.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Family-owned business providing professional unbiased mold inspections and testing with NEHA certified professionals.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "mold removal"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:54",
+    "sentiment": null
+  },
+  {
+    "slug": "pillar-to-post-bel-air",
+    "name": "Pillar To Post",
+    "city": "bel-air",
+    "state": "MD",
+    "address": "",
+    "lat": 39.5797515,
+    "lng": -78.8531894,
+    "phone": "800-294-5591",
+    "website": "https://pillartopost.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Home inspection leader offering accurate mold testing using innovative technology for buyers and sellers.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:54",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "thorough",
+        "professional",
+        "comprehensive",
+        "responsive",
+        "informative",
+        "easy to work with"
+      ],
+      "highlights": [
+        {
+          "text": "Probably the most thorough and comprehensive home inspection I have ever seen.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Very professional, responsive and easy to work with. I felt comfortable moving forward.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Steve was great please give him a raise and a promotion.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Everything was explained and all questions were answered without hesitation.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Pillar To Post receives overwhelmingly positive sentiment with reviewers consistently praising their thorough, professional inspections and responsive customer service across multiple locations."
+    }
+  }
+]

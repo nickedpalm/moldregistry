@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "expert-mold-test-gainesville",
+    "name": "Expert Mold Test",
+    "city": "gainesville",
+    "state": "GA",
+    "address": "",
+    "lat": 34.2978794,
+    "lng": -83.8240663,
+    "phone": "770-533-3308",
+    "website": "https://expertmoldtest.com",
+    "email": "Dan@ExpertMoldTest.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Provides professional mold inspections, testing, moisture inspections, written protocols, and post-remediation verification for residential and commercial properties; no remediation services.",
+    "certifications": [],
+    "services": [
+      "mold inspections",
+      "mold testing",
+      "moisture inspections",
+      "post-remediation verification"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:13",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "slug": "alpha-environmental-services-inc-portland",
+    "name": "Alpha Environmental Services Inc",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5202471,
+    "lng": -122.674194,
+    "phone": "",
+    "website": "https://alphaenvironmental.net/mold/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Provides certified mold inspections, testing, removal, and water damage restoration for residential and commercial properties in Portland with over 20 years experience.",
+    "certifications": [],
+    "services": [
+      "mold inspections",
+      "mold testing",
+      "mold removal",
+      "water damage restoration"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:49:02",
+    "sentiment": null
+  },
+  {
+    "slug": "mold-inspection-testing-portland-oregon-portland",
+    "name": "Mold Inspection & Testing Portland Oregon",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5202471,
+    "lng": -122.674194,
+    "phone": "971-599-6942",
+    "website": "https://moldinspectionandtest.com/portland-or",
+    "email": "office@mitmold.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Certified mold inspector providing unbiased mold testing services for homes and businesses in Portland and surrounding areas since 2016. Test-only company focused on indoor air quality.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "mold inspection",
+      "post-remediation verification"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:49:02",
+    "sentiment": null
+  },
+  {
+    "slug": "mold-inspection-sciences-portland",
+    "name": "Mold Inspection Sciences",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5202471,
+    "lng": -122.674194,
+    "phone": "503-922-3399",
+    "website": "https://www.moldsci.com/locations/portland",
+    "email": "client-service@moldsci.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Provides mold inspection, testing, detection, CIRS protocol, post-remediation clearance testing, and environmental risk assessments in Portland, Vancouver, and surrounding areas. Over 20 years experience, test-only with no remediation conflict of interest.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "mold inspection",
+      "remediation protocols",
+      "drinking water sampling"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:49:02",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "knowledgeable",
+        "professional",
+        "thorough",
+        "friendly",
+        "communicative",
+        "expert"
+      ],
+      "highlights": [
+        {
+          "text": "Craig is extremely knowledgeable with a strong environmental science background, very thorough, and detail-oriented.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "He made a stressful situation way less stressful. You have a fantastic employee in him.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "He caught issues we did not see, nor did other professionals.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Craig is kind, helpful, honest, enjoyable, explains everything well and puts us at ease.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Mold Inspection Sciences, particularly inspector Craig, receives overwhelmingly positive reviews praising his expertise, professionalism, thoroughness, and exceptional ability to communicate complex information clearly during stressful situations."
+    }
+  },
+  {
+    "slug": "mold-testing-services-of-oregon-portland",
+    "name": "Mold Testing Services of Oregon",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5202471,
+    "lng": -122.674194,
+    "phone": "4375000000",
+    "website": "https://www.mtso.co",
+    "email": "garrett@mtso.co",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Specializes in objective mold inspections and testing for residential and light commercial properties in Portland area. Tailored services without remediation to ensure transparency.",
+    "certifications": [],
+    "services": [
+      "mold inspections",
+      "mold testing",
+      "indoor environmental assessments"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:49:02",
+    "sentiment": null
+  }
+]

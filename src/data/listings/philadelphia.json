@@ -1,0 +1,109 @@
+[
+  {
+    "slug": "aaa-lead-pro-pa-philadelphia",
+    "name": "AAA Lead Pro PA",
+    "city": "Philadelphia",
+    "state": "PA",
+    "address": "",
+    "lat": 39.9527237,
+    "lng": -75.1635262,
+    "phone": "484-272-9797",
+    "website": "https://www.aaaleadpropa.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Certified mold testing and inspection services along with lead, asbestos, and water damage restoration in Philadelphia and surrounding areas. 24/6 availability.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "mold inspection",
+      "mold removal"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:59",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "mold testing",
+        "mold inspection",
+        "mold removal"
+      ],
+      "highlights": [
+        {
+          "text": "5-star reviews across service areas",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Certified mold testing and inspection services along with lead, asbestos, and water damage restoration in Philadelphia and surrounding areas. 24/6 availability."
+    }
+  },
+  {
+    "slug": "mold-test-company-philadelphia",
+    "name": "Mold Test Company",
+    "city": "Philadelphia",
+    "state": "PA",
+    "address": "",
+    "lat": 39.9527237,
+    "lng": -75.1635262,
+    "phone": "(844) 930-6533",
+    "website": "https://moldtestcompany.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Board-certified mold inspectors providing environmental testing, inspection, and identification services across Pennsylvania including Philadelphia, Pittsburgh, and Erie.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "environmental testing",
+      "mold identification"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:59",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "thorough",
+        "professional",
+        "respectful",
+        "prompt",
+        "informative",
+        "went above and beyond"
+      ],
+      "highlights": [
+        {
+          "text": "They were the most thorough company of the 5 that we contacted.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "He told us he would treat the home as if it was his own. And he did!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Great service and informative. Went above and beyond.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The technician showed tremendous respect upon realizing I was a Vietnam era vet.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Mold Test Company has an excellent reputation with consistently positive reviews praising their thoroughness, professionalism, respectful service, and commitment to solving customers' mold and air quality issues."
+    }
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "slug": "coastal-mold-testing-llc-jacksonville",
+    "name": "Coastal Mold Testing LLC",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "",
+    "lat": 30.3262247,
+    "lng": -81.6579179,
+    "phone": "863-316-2584",
+    "website": "https://www.coastalmoldtesting.com",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides thorough mold testing and inspections by licensed assessors for residential and commercial clients across all of Florida, with lab-certified results and detailed reports.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "mold inspection"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:45",
+    "sentiment": null
+  },
+  {
+    "slug": "elite-mold-services-jacksonville",
+    "name": "Elite Mold Services",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "",
+    "lat": 30.3262247,
+    "lng": -81.6579179,
+    "phone": "3529245302",
+    "website": "https://moldinspect.org",
+    "email": "mail@moldinspect.org",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Central Florida's leading mold assessment company offering mold inspections, testing, post-remediation verification, indoor air quality, allergen, radon, and water quality testing by state-certified inspectors.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "post-remediation",
+      "indoor air quality",
+      "allergen testing",
+      "radon testing",
+      "water quality"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:45",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "knowledgeable",
+        "thorough",
+        "honest",
+        "reliable",
+        "exceptional service"
+      ],
+      "highlights": [
+        {
+          "text": "J.T. and his staff are real honest pro's with knowledge, skill and equipment to deliver accurate results",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I would recommend them \u2014 without reservation \u2014 to anyone",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Joe was very thorough in his inspection and I am extremely grateful for his service",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The inspection and report were both comprehensive and thorough with knowledgeable and reliable inspectors",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Elite Mold Services has overwhelmingly positive sentiment with all reviewers praising their professionalism, thoroughness, expertise, and exceptional service quality across mold inspection and air quality assessments."
+    }
+  },
+  {
+    "slug": "florida-mold-inspections-inc-jacksonville",
+    "name": "Florida Mold Inspections, Inc",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "",
+    "lat": 30.3262247,
+    "lng": -81.6579179,
+    "phone": "954-752-3335",
+    "website": "https://www.florida-moldinspections.com",
+    "email": "info@florida-moldinspections.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides certified mold inspections, particulate investigations, and indoor air quality consulting in southeastern Florida for nearly a decade.",
+    "certifications": [],
+    "services": [
+      "mold inspections",
+      "particulate investigations",
+      "indoor air quality"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:45",
+    "sentiment": null
+  },
+  {
+    "slug": "quality-mold-solutions-jacksonville",
+    "name": "Quality Mold Solutions",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "",
+    "lat": 30.3262247,
+    "lng": -81.6579179,
+    "phone": "407-726-4257",
+    "website": "https://www.qualitymoldsolutions.org",
+    "email": "qualitymoldsolutions@gmail.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Premier mold inspection company serving Central Florida with assessments, water testing, punctual service, and quick turnaround times.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "water testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:45",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "knowledgeable",
+        "friendly",
+        "trustworthy",
+        "responsive",
+        "thorough"
+      ],
+      "highlights": [
+        {
+          "text": "Dillon was amazing\u2026 professional, courteous, and timely. He gave us honest feedback and suggestions to save us money",
+          "sentiment": "positive"
+        },
+        {
+          "text": "CALL DILLON! Super easy to work with, patient, educates you on what's happening, and super responsive",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Transparent and gave me honest answers, which I truly appreciated. Overall, I felt confident in their services from start to finish",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Dillon gave us peace of mind after we remediated a water leak. Very friendly, personable, and helpful",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Quality Mold Solutions has exceptional customer sentiment with consistently outstanding reviews praising Dillon's professionalism, knowledge, honesty, and customer-focused service across all aspects of their mold inspection business."
+    }
+  }
+]

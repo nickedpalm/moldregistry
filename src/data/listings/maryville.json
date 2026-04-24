@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "twofold-mold-inspections-maryville",
+    "name": "Twofold Mold Inspections",
+    "city": "maryville",
+    "state": "TN",
+    "address": "2138 Middlesettlements Rd., Maryville, TN 37801",
+    "lat": 35.7825772,
+    "lng": -84.0386074,
+    "phone": "(865)-617-0708",
+    "website": "https://www.twofoldmold.com",
+    "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Specializes in mold sampling, inspections, consulting, water damage, and asbestos testing for East Tennessee areas including Knoxville, Maryville, and surrounding communities.",
+    "certifications": [],
+    "services": [
+      "mold inspections",
+      "mold sampling",
+      "water damage consulting",
+      "asbestos testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:47",
+    "sentiment": null
+  }
+]

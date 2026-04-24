@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "mold-busters-cincinnati",
+    "name": "Mold Busters",
+    "city": "cincinnati",
+    "state": "OH",
+    "address": "",
+    "lat": 39.1014537,
+    "lng": -84.5124602,
+    "phone": "",
+    "website": "https://www.mold-busters.co",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Expert mold inspection and removal services with 15 years experience for residential and commercial properties in Cincinnati, Columbus, and Dayton.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold removal",
+      "mold remediation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:07",
+    "sentiment": null
+  }
+]

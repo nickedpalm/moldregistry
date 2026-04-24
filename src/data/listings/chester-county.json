@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "saenz-inspection-services-sis-chester-county",
+    "name": "Saenz Inspection Services (SIS)",
+    "city": "chester-county",
+    "state": "PA",
+    "address": "",
+    "lat": 39.9829308,
+    "lng": -75.7652424,
+    "phone": "610-960-5895",
+    "website": "https://www.sismoldandhomeinspections.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Environmental inspection and testing for mold and radon with over 10 years experience, serving Philadelphia and tri-state area since 2014 with 4000+ inspections.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "air quality testing",
+      "surface sampling",
+      "thermal imaging",
+      "radon testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:59",
+    "sentiment": null
+  }
+]

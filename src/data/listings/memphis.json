@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "mold-inspection-testing-memphis-memphis",
+    "name": "Mold Inspection & Testing Memphis",
+    "city": "Memphis",
+    "state": "TN",
+    "address": "",
+    "lat": 35.1460249,
+    "lng": -90.0517638,
+    "phone": "901-318-3329",
+    "website": "https://moldinspectionandtest.com/memphis-tn",
+    "email": "memphis@mitmold.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Unbiased mold inspection and testing services to confirm mold presence, locate sources, assess severity, and determine spread in Memphis and surrounding areas.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:47",
+    "sentiment": null
+  }
+]

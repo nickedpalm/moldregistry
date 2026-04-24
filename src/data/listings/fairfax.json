@@ -1,0 +1,49 @@
+[
+  {
+    "slug": "mold-inspection-testing-fairfax",
+    "name": "Mold Inspection & Testing",
+    "city": "fairfax",
+    "state": "VA",
+    "address": "",
+    "lat": 38.8462236,
+    "lng": -77.3063733,
+    "phone": "703-988-4188",
+    "website": "https://moldinspectionandtest.com",
+    "email": "office@mitmold.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Unbiased mold inspection and testing services for Fairfax, Virginia and surrounding areas, aimed at confirming or denying mold presence, identifying sources, assessing severity, and determining spread.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:42",
+    "sentiment": {
+      "label": "mixed",
+      "score": 0.5,
+      "keywords": [
+        "no content",
+        "unable to analyze",
+        "incomplete reviews",
+        "placeholder text"
+      ],
+      "highlights": [
+        {
+          "text": "No substantive review content provided",
+          "sentiment": "negative"
+        },
+        {
+          "text": "Only emoji selection prompts visible, no actual feedback",
+          "sentiment": "negative"
+        }
+      ],
+      "summary": "Unable to determine sentiment; reviews contain only website prompts with no actual customer feedback or comments."
+    }
+  }
+]

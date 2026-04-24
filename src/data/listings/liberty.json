@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "hometeam-inspection-service-liberty",
+    "name": "HomeTeam Inspection Service",
+    "city": "liberty",
+    "state": "MO",
+    "address": "",
+    "lat": 39.246479,
+    "lng": -94.419079,
+    "phone": "1768922327",
+    "website": "https://hometeam.com/liberty-mo/our-services/mold-inspection-and-tests/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Comprehensive mold inspection and testing services for homes.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:03",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "thorough",
+        "knowledgeable",
+        "professional",
+        "excellent communication",
+        "clear explanations",
+        "follow-up"
+      ],
+      "highlights": [
+        {
+          "text": "Very thorough, the inspector was very knowledgeable and trustworthy. They also followed up with calls",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Great communication from start to finish. Josh is very knowledgeable and follows through to ensure everything is done satisfactorily.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Very professional. They takes their time in every aspect of the inspection and is very knowledgeable. Would highly recommend to all.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I was very impressed to be able to speak with the owner upon first phone call. Great company!",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "HomeTeam Inspection Service has an overwhelmingly positive reputation, with customers consistently praising their thorough inspections, knowledgeable inspectors, professional communication, and detailed explanations throughout the process."
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "illinois-home-solutions-east-peoria",
+    "name": "Illinois Home Solutions",
+    "city": "east-peoria",
+    "state": "IL",
+    "address": "",
+    "lat": 40.666149,
+    "lng": -89.5800978,
+    "phone": "",
+    "website": "https://www.illinoishs.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Mold inspections and remediation services addressing source and safe removal in East Peoria and Springfield areas.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold remediation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:53",
+    "sentiment": null
+  }
+]

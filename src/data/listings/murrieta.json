@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "ez-mold-inspections-murrieta",
+    "name": "EZ Mold Inspections",
+    "city": "murrieta",
+    "state": "CA",
+    "address": "",
+    "lat": 33.560832,
+    "lng": -117.210656,
+    "phone": "(951) 401-0565",
+    "website": "https://www.ezmoldinspections.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Mold inspection company based in Murrieta specializing in mold testing and indoor air quality testing for residential and commercial properties in Riverside County with over 20 years of experience.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "indoor air quality testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:20",
+    "sentiment": null
+  }
+]

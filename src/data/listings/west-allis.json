@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "mold-inspection-testing-mit-west-allis",
+    "name": "Mold Inspection & Testing (MI&T)",
+    "city": "west-allis",
+    "state": "WI",
+    "address": "10448 W. Montana Ave, West Allis, Wisconsin 53227",
+    "lat": 42.993476,
+    "lng": -88.0455239,
+    "phone": "414-939-5969",
+    "website": "https://moldinspectionandtest.com",
+    "email": "office@mitmold.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Unbiased mold inspection and mold testing services for Milwaukee and Brookfield areas",
+    "certifications": [],
+    "services": [
+      "Mold Inspection",
+      "Mold Testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:56",
+    "sentiment": {
+      "label": "mixed",
+      "score": 0.5,
+      "keywords": [
+        "insufficient data",
+        "no reviews provided",
+        "unclear experience"
+      ],
+      "highlights": [
+        {
+          "text": "No substantive review content available for analysis",
+          "sentiment": "negative"
+        }
+      ],
+      "summary": "Unable to determine sentiment - the provided reviews contain only placeholder text requesting emoji feedback with no actual customer comments or experiences."
+    }
+  }
+]

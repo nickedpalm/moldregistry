@@ -1,0 +1,36 @@
+[
+  {
+    "slug": "florida-mold-testers-llc-fort-lauderdale",
+    "name": "Florida Mold Testers LLC",
+    "city": "fort-lauderdale",
+    "state": "FL",
+    "address": "",
+    "lat": 26.1223084,
+    "lng": -80.1433786,
+    "phone": "9016255942",
+    "website": "https://floridamoldtesters.com",
+    "email": "info@floridamoldtesters.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Specializes in mold testing, inspection, removal, remediation, water damage restoration, and indoor air quality assessments. Holds Florida State Mold Licenses, IICRC certified, NORMI and NAMRI accredited.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "inspection",
+      "removal",
+      "remediation",
+      "water damage restoration",
+      "indoor air quality"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:45",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "aspen-environmental-services-boston",
+    "name": "Aspen Environmental Services",
+    "city": "Boston",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3588336,
+    "lng": -71.0578303,
+    "phone": "978-681-5023",
+    "website": "https://aspenenvironmentalservices.com/mold-testing/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional mold testing and inspection services for homes in Boston, MA and surrounding areas.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "mold inspection"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:26",
+    "sentiment": null
+  }
+]

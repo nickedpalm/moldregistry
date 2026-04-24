@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "mold-iaq-inspector-bergen-county",
+    "name": "Mold | IAQ Inspector",
+    "city": "bergen-county",
+    "state": "NJ",
+    "address": "",
+    "lat": 40.9678345,
+    "lng": -74.0563254,
+    "phone": "3333333333",
+    "website": "https://certifiedmoldtestingnj.com",
+    "email": "henry@certifiedmoldtestingnj.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Certified mold inspections and indoor air quality testing serving Bergen, Union, Passaic, Hudson, Essex, and Morris Counties in NJ and NY, operating since 2011.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "indoor air quality (IAQ)",
+      "mycotoxins",
+      "VOC/formaldehyde",
+      "radon",
+      "lead paint inspection"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:21",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "thorough",
+        "professional",
+        "knowledgeable",
+        "honest",
+        "prompt",
+        "detail-oriented"
+      ],
+      "highlights": [
+        {
+          "text": "He is literally one of the most honest contractors I have ever done business with.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "A true professional! Look no further for a knowledgeable, thoughtful, detail-oriented specialist.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "10/10 Would work with him again.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "He did not upsell and the prices were very reasonable.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Mold | IAQ Inspector (Henry) has an exceptionally positive reputation with customers consistently praising his thoroughness, professionalism, honesty, knowledge, and reasonable pricing across multiple NJ locations."
+    }
+  }
+]

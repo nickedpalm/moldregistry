@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /provider/dashboard/
+Disallow: /api/
+
+Sitemap: https://moldregistry.com/sitemap-index.xml

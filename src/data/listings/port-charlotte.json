@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "building-inspection-of-florida-port-charlotte",
+    "name": "Building Inspection of Florida",
+    "city": "port-charlotte",
+    "state": "FL",
+    "address": "",
+    "lat": 26.98242,
+    "lng": -82.1068873,
+    "phone": "",
+    "website": "https://www.moldinspectorfl.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Family-owned business offering mold inspections, testing, thermal imaging, and indoor air quality testing in southwest Florida since 2001. Holds State of Florida Mold Assessor\u2019s License MRSA954.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "thermal imaging",
+      "indoor air quality testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:45",
+    "sentiment": null
+  }
+]

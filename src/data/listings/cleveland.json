@@ -1,0 +1,119 @@
+[
+  {
+    "slug": "dutchs-mold-inspection-remediation-services-cleveland",
+    "name": "Dutch's Mold Inspection & Remediation Services",
+    "city": "Cleveland",
+    "state": "OH",
+    "address": "",
+    "lat": 41.4996574,
+    "lng": -81.6936772,
+    "phone": "(440) 748-4660",
+    "website": "https://dutchinspects.com/category/mold-inspections/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Mold inspection and remediation services in Cleveland, winner of Angie's List Super Service Award since 2010.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold remediation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:07",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "professional",
+        "thorough testing",
+        "reliable service",
+        "customer satisfaction",
+        "well-organized",
+        "high quality"
+      ],
+      "highlights": [
+        {
+          "text": "The job went very well. Rick first tested for mold in the basement and, in two other parts of the house.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Dutch's Mold Inspection earned the home service industry's coveted Angie's List Super Service Award",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Award Reflects Mold Company's High Level of Customer Service",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Dutch's Mold Inspection & Remediation Services maintains an excellent reputation with consistently positive customer reviews and industry recognition for superior service quality."
+    }
+  },
+  {
+    "slug": "erie-environmental-cleveland",
+    "name": "Erie Environmental",
+    "city": "Cleveland",
+    "state": "OH",
+    "address": "",
+    "lat": 41.4996574,
+    "lng": -81.6936772,
+    "phone": "1776350073",
+    "website": "https://erie-environmentalofcleveland.com/services/mold-testing/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional mold testing with free inspection, collaborating with third-party inspectors for thorough mold remediation verification in Cleveland and Akron.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "mold inspection",
+      "mold remediation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:07",
+    "sentiment": null
+  },
+  {
+    "slug": "mold-inspection-testing-cleveland",
+    "name": "Mold Inspection & Testing",
+    "city": "Cleveland",
+    "state": "OH",
+    "address": "6415 Detroit Ave., Cleveland, Ohio 44102",
+    "lat": 41.4840651,
+    "lng": -81.729631,
+    "phone": "216-202-0082",
+    "website": "https://moldinspectionandtest.com/cleveland-oh",
+    "email": "cleveland@mitmold.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Independent mold inspection and testing services for Cleveland and surrounding areas, unbiased from remediation companies.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:07",
+    "sentiment": null
+  }
+]

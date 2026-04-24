@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "md-mold-testing-baltimore",
+    "name": "MD Mold Testing",
+    "city": "Baltimore",
+    "state": "MD",
+    "address": "",
+    "lat": 39.2908816,
+    "lng": -76.610759,
+    "phone": "",
+    "website": "https://www.mdmoldtesting.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers home inspections and licensed mold testing throughout Maryland, DC, northern Virginia, and Delaware.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "air testing",
+      "mold remediation protocols"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:54",
+    "sentiment": null
+  },
+  {
+    "slug": "mold-inspection-testing-baltimore",
+    "name": "Mold Inspection & Testing",
+    "city": "Baltimore",
+    "state": "MD",
+    "address": "440 N. Luzerne Ave., Baltimore, Maryland 21224",
+    "lat": 39.2965138,
+    "lng": -76.5809491,
+    "phone": "410-999-0992",
+    "website": "https://moldinspectionandtest.com",
+    "email": "office@mitmold.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Largest test-only company providing unbiased mold inspection and testing across Maryland, with same-day service and next-day results.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "indoor air quality assessment"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:54",
+    "sentiment": {
+      "label": "mixed",
+      "score": 0.5,
+      "keywords": [
+        "no reviews",
+        "emoji rating system",
+        "incomplete feedback"
+      ],
+      "highlights": [
+        {
+          "text": "No substantive review content available for analysis",
+          "sentiment": "negative"
+        }
+      ],
+      "summary": "Insufficient review data available; only emoji prompts present without actual customer feedback or ratings to assess sentiment."
+    }
+  },
+  {
+    "slug": "showalter-property-consultants-baltimore",
+    "name": "Showalter Property Consultants",
+    "city": "Baltimore",
+    "state": "MD",
+    "address": "",
+    "lat": 39.2908816,
+    "lng": -76.610759,
+    "phone": "410-570-6430",
+    "website": "https://www.showalterpropertyconsultants.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers mold assessments, investigations, and ERMI testing throughout Maryland, Eastern Shore, DC, and Baltimore areas.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "mold investigations",
+      "ERMI testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:54",
+    "sentiment": null
+  }
+]

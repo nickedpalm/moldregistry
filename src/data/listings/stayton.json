@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "summit-cleaning-restoration-stayton",
+    "name": "Summit Cleaning & Restoration",
+    "city": "stayton",
+    "state": "OR",
+    "address": "",
+    "lat": 44.8006775,
+    "lng": -122.794533,
+    "phone": "1777025113",
+    "website": "https://www.summitclean.com/mold-removal/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Offers mold inspection, removal, remediation, cleaning, and abatement services for homes and businesses in Oregon and SW Washington, particularly after water damage.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold removal",
+      "mold remediation",
+      "water damage restoration"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:49:02",
+    "sentiment": null
+  }
+]

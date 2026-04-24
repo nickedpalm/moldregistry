@@ -1,0 +1,125 @@
+[
+  {
+    "slug": "mold-inspections-of-texas-llc-houston",
+    "name": "Mold Inspections of Texas, LLC",
+    "city": "Houston",
+    "state": "TX",
+    "address": "",
+    "lat": 29.7589382,
+    "lng": -95.3676974,
+    "phone": "713-252-5844",
+    "website": "https://www.moldinspectionsoftexas.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Leaders in residential mold inspection, testing, indoor air quality testing, and mold remediation project consulting serving Greater Houston Metropolitan Area.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "indoor air quality testing",
+      "remediation consulting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:37",
+    "sentiment": null
+  },
+  {
+    "slug": "texas-mold-inspectors-houston",
+    "name": "Texas Mold Inspectors",
+    "city": "Houston",
+    "state": "TX",
+    "address": "",
+    "lat": 29.7589382,
+    "lng": -95.3676974,
+    "phone": "1768254697",
+    "website": "https://texasmoldinspectors.com",
+    "email": "info@texasmoldinspectors.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "State licensed and fully insured mold inspectors offering professional, efficient, and thorough mold inspections and testing statewide.",
+    "certifications": [],
+    "services": [
+      "mold inspections",
+      "mold testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:37",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "thorough",
+        "knowledgeable",
+        "caring",
+        "responsive",
+        "trustworthy"
+      ],
+      "highlights": [
+        {
+          "text": "Can not praise or thank them enough!!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "This was the best money I've ever spent!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They stand behind their research, their work and their heart",
+          "sentiment": "positive"
+        },
+        {
+          "text": "treated us like family",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Texas Mold Inspectors has an exceptionally strong reputation with overwhelmingly positive reviews praising their professionalism, thoroughness, knowledge, and genuine care for customers' wellbeing."
+    }
+  },
+  {
+    "slug": "texas-mold-testing-houston",
+    "name": "Texas Mold Testing",
+    "city": "Houston",
+    "state": "TX",
+    "address": "",
+    "lat": 29.7589382,
+    "lng": -95.3676974,
+    "phone": "1210676308",
+    "website": "https://texas-mold-testing.com",
+    "email": "texasmoldtesting@gmail.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Environmental testing services for mold, asbestos, and indoor air contaminants in residential and commercial buildings across Texas for 15 years.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "asbestos testing",
+      "indoor air contaminant identification"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:37",
+    "sentiment": null
+  }
+]

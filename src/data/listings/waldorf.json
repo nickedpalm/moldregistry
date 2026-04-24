@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "tdm-mold-inspection-and-testing-services-waldorf",
+    "name": "TDM Mold Inspection and Testing Services",
+    "city": "waldorf",
+    "state": "MD",
+    "address": "",
+    "lat": 38.6263882,
+    "lng": -76.9106581,
+    "phone": "2545352419",
+    "website": "https://www.tdmmoldinspection.com",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Service Disabled Veteran-Owned Small Business specializing in mold inspections and indoor air quality evaluations in Southern Maryland.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "indoor air quality evaluation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:54",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "trusted",
+        "professional",
+        "reliable",
+        "indoor air quality",
+        "mold inspection",
+        "expert"
+      ],
+      "highlights": [
+        {
+          "text": "Your #1 Trusted Mold Inspection and Indoor Air Quality Evaluation Partner!",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "TDM Mold Inspection and Testing Services is positioned as a trusted and professional partner for mold inspection and indoor air quality evaluation, with strong emphasis on reliability and expertise."
+    }
+  }
+]

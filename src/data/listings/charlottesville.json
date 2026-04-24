@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "tjl-environmental-health-consultants-inc-charlottesville",
+    "name": "TJL Environmental Health Consultants, Inc.",
+    "city": "charlottesville",
+    "state": "VA",
+    "address": "",
+    "lat": 38.029306,
+    "lng": -78.4766781,
+    "phone": "434.962.8721",
+    "website": "https://tjlenvironmental.com",
+    "email": "joel@tjlenvironmental.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Virginia licensed mold inspectors providing mold testing, inspections, remediation plans, indoor air quality assessments, and moisture evaluations throughout central Virginia including Charlottesville, Richmond, Culpeper, Harrisonburg, and Lynchburg for over 25 years.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:42",
+    "sentiment": null
+  }
+]

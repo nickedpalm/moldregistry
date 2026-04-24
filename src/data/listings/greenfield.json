@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "advantage-home-inspection-services-llc-greenfield",
+    "name": "Advantage Home Inspection Services LLC",
+    "city": "greenfield",
+    "state": "WI",
+    "address": "10833 W Pallottine Dr, Greenfield, WI 53228-1127",
+    "lat": 42.9793282,
+    "lng": -88.0489118,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Home inspections, radon testing, and mold inspection services",
+    "certifications": [],
+    "services": [
+      "Home Inspections",
+      "Radon Testing",
+      "Mold Inspection"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:56",
+    "sentiment": null
+  }
+]

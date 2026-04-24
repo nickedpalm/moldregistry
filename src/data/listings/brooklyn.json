@@ -1,0 +1,36 @@
+[
+  {
+    "slug": "new-york-mold-specialist-brooklyn",
+    "name": "New York Mold Specialist",
+    "city": "brooklyn",
+    "state": "NY",
+    "address": "4904 Avenue L, Brooklyn, NY 11234",
+    "lat": 40.6233376,
+    "lng": -73.9281456,
+    "phone": "1777025018",
+    "website": "https://newyorkmoldspecialist.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Licensed and insured mold assessment and remediation company serving NYC, Long Island, and Tri-State area since 2012. Handles single-family residences to large commercial properties.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold assessment",
+      "mold remediation",
+      "water damage restoration",
+      "residential",
+      "commercial"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:30",
+    "sentiment": null
+  }
+]

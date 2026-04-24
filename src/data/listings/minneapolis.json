@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "green-home-solutions-twin-cities-minneapolis",
+    "name": "Green Home Solutions Twin Cities",
+    "city": "Minneapolis",
+    "state": "MN",
+    "address": "",
+    "lat": 44.9772995,
+    "lng": -93.2654692,
+    "phone": "1640245922",
+    "website": "https://www.greenhomesolutions.com/twin-cities-mn",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Comprehensive mold inspections and indoor air quality testing using eco-friendly solutions for homes and businesses in Minneapolis and Twin Cities area.",
+    "certifications": [],
+    "services": [
+      "mold inspections",
+      "indoor air quality inspections",
+      "mold testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:28",
+    "sentiment": {
+      "label": "mixed",
+      "score": 0.5,
+      "keywords": [
+        "indoor air quality",
+        "local experts"
+      ],
+      "highlights": [
+        {
+          "text": "Your Local Indoor Air Quality Experts",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Insufficient review data available to determine sentiment; only website tagline/header information provided without substantive customer feedback."
+    }
+  },
+  {
+    "slug": "minnesota-mold-inspection-llc-minneapolis",
+    "name": "Minnesota Mold Inspection LLC",
+    "city": "Minneapolis",
+    "state": "MN",
+    "address": "",
+    "lat": 44.9772995,
+    "lng": -93.2654692,
+    "phone": "612-508-2742",
+    "website": "https://www.mnmold.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Locally owned independent mold inspection and testing company serving residential and business properties since 2005, with no conflict of interest as they do not perform remediation.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "moisture testing",
+      "visual inspections"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:28",
+    "sentiment": null
+  },
+  {
+    "slug": "mold-inspection-testing-minneapolis-minnesota-minneapolis",
+    "name": "Mold Inspection & Testing Minneapolis Minnesota",
+    "city": "Minneapolis",
+    "state": "MN",
+    "address": "7326 Taylor St. NE, Minneapolis, Minnesota 55432",
+    "lat": 45.0352315,
+    "lng": -93.2429732,
+    "phone": "612-399-9001",
+    "website": "https://moldinspectionandtest.com/minneapolis-mn",
+    "email": "minneapolis@mitmold.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Unbiased mold inspection and testing services for residential and commercial properties in Minneapolis and surrounding areas, provided by certified inspector with 20 years experience.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "indoor air quality assessment"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:28",
+    "sentiment": null
+  }
+]

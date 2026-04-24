@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "iris-environmental-laboratories-gaithersburg",
+    "name": "IRIS Environmental Laboratories",
+    "city": "gaithersburg",
+    "state": "MD",
+    "address": "",
+    "lat": 39.1399187,
+    "lng": -77.1929215,
+    "phone": "(240) 293-2200",
+    "website": "https://irislaboratories.com",
+    "email": "metrodetroit@irisinspections.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides expert mold inspection and testing services in Montgomery County for homes and businesses.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "asbestos and mold analysis"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:54",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "excellent customer service",
+        "fast turnaround",
+        "professional staff",
+        "prompt",
+        "knowledgeable",
+        "respectful"
+      ],
+      "highlights": [
+        {
+          "text": "The personnel at IRIS labs is well beyond my wildest expectations.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Rick and his team are the best when it comes to customer service and industry knowledge.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Fast yet accurate service testing they provide with a quick turn around",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Made us feel like our safety was top priority. They made this process very easy.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "IRIS Environmental Laboratories has an exceptionally strong reputation with consistently positive reviews praising their professional staff, rapid service delivery, expertise, and customer-centric approach across all services."
+    }
+  }
+]

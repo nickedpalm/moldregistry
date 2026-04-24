@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "mastertech-environmental-morristown",
+    "name": "Mastertech Environmental",
+    "city": "morristown",
+    "state": "NJ",
+    "address": "",
+    "lat": 40.7970382,
+    "lng": -74.4809868,
+    "phone": "",
+    "website": "https://www.mastertechnnj.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Locally owned company providing certified mold inspection, testing, remediation, biohazard cleanup, hoarding cleanup, and water damage restoration in Northern New Jersey.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "mold remediation",
+      "moisture mapping",
+      "thermal imaging"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:21",
+    "sentiment": null
+  }
+]

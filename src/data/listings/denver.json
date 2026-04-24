@@ -1,0 +1,342 @@
+[
+  {
+    "slug": "a-healthy-home-llc-denver",
+    "name": "A Healthy Home, LLC",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392364,
+    "lng": -104.984862,
+    "phone": "",
+    "website": "https://ahealthyhomecolorado.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Home inspection, mold testing, radon testing, and asbestos testing services in the Denver metro area, offering high quality service at competitive prices.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "radon testing",
+      "asbestos testing",
+      "home inspection"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:10",
+    "sentiment": null
+  },
+  {
+    "slug": "abbotts-cleanup-restoration-denver",
+    "name": "Abbotts Cleanup & Restoration",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392364,
+    "lng": -104.984862,
+    "phone": "",
+    "website": "https://abbottsfireandflood.com/mold-inspection-services/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional mold inspection using moisture meters and infrared cameras for thorough property assessments.",
+    "certifications": [],
+    "services": [
+      "mold inspection"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:10",
+    "sentiment": null
+  },
+  {
+    "slug": "axium-inspections-denver",
+    "name": "Axium Inspections",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392364,
+    "lng": -104.984862,
+    "phone": "1776992286",
+    "website": "https://axiuminspections.com/mold-inspections/",
+    "email": "admin@axiuminspections.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Nationally certified for mold inspections and testing, experienced with commercial and residential mold inspections throughout Colorado.",
+    "certifications": [],
+    "services": [
+      "mold inspections",
+      "mold testing",
+      "commercial",
+      "residential"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:10",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "thorough",
+        "professional",
+        "friendly",
+        "knowledgeable",
+        "on-time",
+        "easy-to-interpret reports"
+      ],
+      "highlights": [
+        {
+          "text": "Jon Handy was exceptional. Really knows his stuff, was super thorough in his explanations",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Bradin was super friendly efficient and great to work with during my home inspection",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Tim was SO wonderful and thorough. He found significant, deal breaking issues",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They showed up on time, did a thorough inspection and found key items that needed to be addressed",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Axium Inspections has an exceptional reputation with uniformly positive reviews highlighting professional, thorough inspectors who excel at clear communication and identifying critical home issues."
+    }
+  },
+  {
+    "slug": "colorado-mold-services-llc-denver",
+    "name": "Colorado Mold Services, LLC",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392364,
+    "lng": -104.984862,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Mold testing and remediation specialists in Denver.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "mold remediation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:10",
+    "sentiment": null
+  },
+  {
+    "slug": "mold-inspection-testing-denver",
+    "name": "Mold Inspection & Testing",
+    "city": "Denver",
+    "state": "CO",
+    "address": "10191 E. Iowa Ave, Denver, Colorado 80247",
+    "lat": 39.6875325,
+    "lng": -104.8693399,
+    "phone": "720-445-4453",
+    "website": "https://moldinspectionandtest.com/denver-co",
+    "email": "denver@mitmold.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Leading mold inspection and testing company offering services without conflict of interest, using infrared cameras, moisture meters, air/surface sampling for indoor air quality assessment. Does not handle mold removal.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "air sampling",
+      "surface sampling"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:10",
+    "sentiment": null
+  },
+  {
+    "slug": "mold-inspection-sciences-denver",
+    "name": "Mold Inspection Sciences",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392364,
+    "lng": -104.984862,
+    "phone": "+1.303.339.0133",
+    "website": "https://www.moldsci.com/locations/denver",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Expert mold inspection and testing services including mold detection, CIRS protocol, post-remediation clearance testing, drinking water testing, and environmental risk assessments. They only perform inspection and testing, never remediation.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "CIRS protocol",
+      "drinking water testing",
+      "environmental risk assessment"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:10",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "thorough",
+        "knowledgeable",
+        "friendly",
+        "helpful explanations",
+        "saved lives"
+      ],
+      "highlights": [
+        {
+          "text": "Johnny and team were the ONLY inspectors that found root causes to water intrusion and possible mold locations.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Patrick was extremely helpful! Super informative and ultimately saved my families life!!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "He is the best of the best! A project manager who really understands how to explain what, why, when and where mold/mycotoxin tests need to be taken.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I was impressed with Frank's thoroughness and professionalism throughout his inspection.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Mold Inspection Sciences has an exceptionally positive reputation, with reviewers consistently praising their inspectors' professionalism, expertise, and thoroughness in detecting mold issues that competitors missed."
+    }
+  },
+  {
+    "slug": "pure-maintenance-of-colorado-llc-denver",
+    "name": "Pure Maintenance of Colorado, LLC",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392364,
+    "lng": -104.984862,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Mold testing and remediation specialists in Denver.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "mold remediation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:10",
+    "sentiment": null
+  },
+  {
+    "slug": "rex-environmental-denver",
+    "name": "Rex Environmental",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392364,
+    "lng": -104.984862,
+    "phone": "1714406693",
+    "website": "https://www.rexenvironmental.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "State licensed and insured inspectors providing mold, asbestos, and lead testing with same-day results, 24/7 availability, comprehensive environmental testing and consulting for home and commercial properties.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "asbestos testing",
+      "lead testing",
+      "inspections"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:10",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "quick service",
+        "courteous",
+        "knowledgeable",
+        "compassionate",
+        "reliable"
+      ],
+      "highlights": [
+        {
+          "text": "He is extremely professional. He also listened to my concerns. He was compassionate and polite.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They typically have result within less than 24 hrs. so you can keep the project moving forward.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Eric and his team are wonderful. We called them in a panic and they were able to come out same day.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Rex is the best environmental company I have worked with thus far.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Rex Environmental has an exceptional reputation with consistently positive reviews praising their professional staff, rapid turnaround times, courteous service, and expertise in environmental testing."
+    }
+  }
+]

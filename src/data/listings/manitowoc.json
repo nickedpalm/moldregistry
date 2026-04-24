@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "zws-environmental-services-inc-manitowoc",
+    "name": "ZWS Environmental Services, Inc.",
+    "city": "manitowoc",
+    "state": "WI",
+    "address": "4029 Waldo Blvd, Manitowoc, WI 54220-3056",
+    "lat": 44.1090466,
+    "lng": -87.6971642,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Water damage restoration, radon testing, and mold inspection services serving Dane, Fond Du Lac, Kenosha, Milwaukee, Ozaukee, Racine, Sheboygan, Walworth, Washington, and Waukesha counties",
+    "certifications": [],
+    "services": [
+      "Water Damage Restoration",
+      "Radon Testing",
+      "Mold Inspection"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:56",
+    "sentiment": null
+  }
+]

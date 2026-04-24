@@ -1,0 +1,70 @@
+[
+  {
+    "slug": "green-home-solutions-of-lancaster-lancaster",
+    "name": "Green Home Solutions of Lancaster",
+    "city": "lancaster",
+    "state": "PA",
+    "address": "",
+    "lat": 40.0379958,
+    "lng": -76.3056707,
+    "phone": "1640245922",
+    "website": "https://www.greenhomesolutions.com/lancaster-pa",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Comprehensive mold inspection reports, remediation plans, and moisture control solutions with professional mold testing.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "mold inspection",
+      "remediation plans",
+      "moisture control"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:59",
+    "sentiment": {
+      "label": "insufficient data",
+      "score": 0.5,
+      "keywords": [],
+      "highlights": [],
+      "summary": "Unable to analyze sentiment - no actual customer reviews were provided, only a website tagline."
+    }
+  },
+  {
+    "slug": "lancaster-environmental-testing-and-inspections-llc-lancaster",
+    "name": "Lancaster Environmental Testing and Inspections, LLC",
+    "city": "lancaster",
+    "state": "PA",
+    "address": "",
+    "lat": 40.0379958,
+    "lng": -76.3056707,
+    "phone": "717-575-8173",
+    "website": "https://lancasterenvironmentaltesting.com",
+    "email": "LancEnvTesting@icloud.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Specialist in mold inspections, indoor air quality testing, and assessments serving Lancaster and York Counties.",
+    "certifications": [],
+    "services": [
+      "mold inspections",
+      "indoor air quality testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:59",
+    "sentiment": null
+  }
+]

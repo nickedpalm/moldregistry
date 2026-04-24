@@ -1,0 +1,154 @@
+[
+  {
+    "slug": "carolina-mold-experts-charlotte",
+    "name": "Carolina Mold Experts",
+    "city": "Charlotte",
+    "state": "NC",
+    "address": "",
+    "lat": 35.2272086,
+    "lng": -80.8430827,
+    "phone": "1169284467",
+    "website": "http://carolinamoldexperts.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides commercial and residential mold inspection, testing, and related services in Charlotte, NC and surrounding areas.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:34",
+    "sentiment": null
+  },
+  {
+    "slug": "hero-mold-company-charlotte",
+    "name": "Hero Mold Company",
+    "city": "Charlotte",
+    "state": "NC",
+    "address": "",
+    "lat": 35.2272086,
+    "lng": -80.8430827,
+    "phone": "1777024746",
+    "website": "https://heromoldcompany.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Top-rated mold removal experts offering household mold inspections, testing, analysis for toxic black mold in North Carolina and VA.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "mold removal"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:34",
+    "sentiment": null
+  },
+  {
+    "slug": "mold-inspection-testing-charlotte",
+    "name": "Mold Inspection & Testing",
+    "city": "Charlotte",
+    "state": "NC",
+    "address": "1524 Capps Hill Mine Rd, Charlotte, NC 28216",
+    "lat": 35.2879967,
+    "lng": -80.8587396,
+    "phone": "704-457-9255",
+    "website": "https://moldinspectionandtest.com/charlotte-nc",
+    "email": "charlotte@mitmold.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Unbiased mold inspection and testing services for homes and businesses throughout Charlotte, NC and surrounding areas, employing certified inspectors to detect elevated mold levels.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:34",
+    "sentiment": null
+  },
+  {
+    "slug": "mold-inspection-sciences-charlotte",
+    "name": "Mold Inspection Sciences",
+    "city": "Charlotte",
+    "state": "NC",
+    "address": "",
+    "lat": 35.2272086,
+    "lng": -80.8430827,
+    "phone": "1-800-619-6653",
+    "website": "https://www.moldsci.com/locations/north-carolina",
+    "email": "client-service@moldsci.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Specializes in mold inspection, detection, and testing across North Carolina without performing remediation to avoid conflicts.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "mold detection"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:34",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "thorough",
+        "knowledgeable",
+        "friendly",
+        "patient",
+        "clear communication"
+      ],
+      "highlights": [
+        {
+          "text": "From the very first phone call, their customer service was impeccable-- friendly, responsive, and informative.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "If there were than 5 stars I could Joseph- I would!SO thorough, SO patient, SO nice, MUCH integrity",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Johnny and team were the ONLY inspectors that found root causes to water intrusion and possible mold locations.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "He was delightful fun respectful smart clean explained everything couldn't have been better in any way",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Mold Inspection Sciences has an exceptional reputation with overwhelmingly positive reviews praising their inspectors' professionalism, thoroughness, expertise, and outstanding customer service across all interactions."
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "hometeam-inspection-service-wilmington",
+    "name": "HomeTeam Inspection Service",
+    "city": "Wilmington",
+    "state": "NC",
+    "address": "",
+    "lat": 34.2352853,
+    "lng": -77.9487284,
+    "phone": "(910) 444-0475",
+    "website": "https://hometeam.com/wilmington-nc/our-services/mold-inspection-and-tests/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Comprehensive mold inspection services using state-of-the-art technology to identify mold issues in Wilmington, NC homes.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold tests"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:34",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "thorough",
+        "knowledgeable",
+        "professional",
+        "excellent communication",
+        "detailed explanations",
+        "follow-up"
+      ],
+      "highlights": [
+        {
+          "text": "Very thorough, the inspector was very knowledgeable and trustworthy. They also followed up with calls",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Great communication from start to finish. Josh is very knowledgeable and follows through to ensure everything is done satisfactorily.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Very professional. Explanation of what he found is superb. Would highly recommend to all.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I was very impressed to be able to speak with the owner upon first phone call. Great company!",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "HomeTeam Inspection Service has an excellent reputation built on thorough inspections, knowledgeable inspectors, outstanding communication, and detailed explanations that consistently exceed customer expectations."
+    }
+  }
+]

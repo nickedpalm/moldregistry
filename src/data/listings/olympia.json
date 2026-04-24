@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "advance-environmental-inc-olympia",
+    "name": "Advance Environmental, Inc.",
+    "city": "olympia",
+    "state": "WA",
+    "address": "",
+    "lat": 47.0451022,
+    "lng": -122.8950075,
+    "phone": "(360) 357-9144",
+    "website": "https://www.olyhazmat.com/mold-remediation",
+    "email": "AdvanceEnvironmental@comcast.net",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Certified mold inspections, air/surface testing, and professional mold remediation following EPA and OSHA guidelines. Family-owned, serves Olympia, Thurston County, South Sound, and all of Washington State.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:23",
+    "sentiment": null
+  }
+]

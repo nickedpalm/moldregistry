@@ -1,0 +1,94 @@
+[
+  {
+    "slug": "integrity-mold-inspection-palm-beach",
+    "name": "Integrity Mold Inspection",
+    "city": "palm-beach",
+    "state": "FL",
+    "address": "",
+    "lat": 26.6279798,
+    "lng": -80.4494174,
+    "phone": "561-401-2294",
+    "website": "https://www.integritymoldinspection.com",
+    "email": "integritymold@gmail.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Family-owned and operated mold inspection team in Palm Beach, Florida, specializing in assessments and protocols with decades of experience. Performs only inspections, no remediation.",
+    "certifications": [],
+    "services": [
+      "mold inspections",
+      "mold assessments",
+      "mold protocols"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:45",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "professional",
+        "responsive",
+        "thorough",
+        "punctual",
+        "polite",
+        "efficient"
+      ],
+      "highlights": [
+        {
+          "text": "Working with Integrity was the easiest part!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We felt that we were in very capable hands.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Integrity Mold Inspection lives up to their name.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "He explained everything he was doing and why.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Integrity Mold Inspection has an excellent reputation, with consistently positive reviews praising their professionalism, thoroughness, responsiveness, and ability to make a stressful process manageable."
+    }
+  },
+  {
+    "slug": "mold-inspection-testing-palm-beach",
+    "name": "Mold Inspection & Testing",
+    "city": "palm-beach",
+    "state": "FL",
+    "address": "",
+    "lat": 26.6279798,
+    "lng": -80.4494174,
+    "phone": "561-323-5692",
+    "website": "https://moldinspectionandtest.com/palm-beach-fl",
+    "email": "office@mitmold.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides unbiased mold testing and inspection services for indoor air quality, available 7 days a week. National network with reputation for honesty and efficiency since 1997.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "inspection",
+      "indoor air quality"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:45",
+    "sentiment": null
+  }
+]

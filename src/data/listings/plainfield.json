@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "first-choice-inspectors-llc-plainfield",
+    "name": "First Choice Inspectors, LLC",
+    "city": "plainfield",
+    "state": "IL",
+    "address": "",
+    "lat": 41.6086711,
+    "lng": -88.2054345,
+    "phone": "773-429-9711",
+    "website": "https://firstchoiceinspectors.com/mold-mildew-inspection/",
+    "email": "office@firstchoiceinspectors.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Mold and mildew inspections for homes in Plainfield and surrounding Chicago metro areas including McHenry, Kane, DuPage, Lake, and Cook Counties.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mildew inspection",
+      "home inspections"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:53",
+    "sentiment": null
+  }
+]

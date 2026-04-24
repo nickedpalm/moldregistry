@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "mold-inspection-sciences-orange-county",
+    "name": "Mold Inspection Sciences",
+    "city": "orange-county",
+    "state": "CA",
+    "address": "",
+    "lat": 33.750631,
+    "lng": -117.8722311,
+    "phone": "+1.949.892.6343",
+    "website": "https://www.moldsci.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Provides mold inspection and testing services in Orange County, focusing only on inspection and testing without remediation to avoid conflict of interest.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "mold inspection",
+      "mold detection",
+      "post-remediation clearance testing",
+      "environmental risk assessments"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:20",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "thorough",
+        "knowledgeable",
+        "friendly",
+        "responsive",
+        "detail-oriented"
+      ],
+      "highlights": [
+        {
+          "text": "If there were than 5 stars I could Joseph- I would!SO thorough, SO patient, SO nice, MUCH integrity",
+          "sentiment": "positive"
+        },
+        {
+          "text": "From the very first phone call, their customer service was impeccable-- friendly, responsive, and informative",
+          "sentiment": "positive"
+        },
+        {
+          "text": "He was one of the most professional workers that I've ever had. So unlike most kids his age.he was delightful",
+          "sentiment": "positive"
+        },
+        {
+          "text": "What really stood out was how willing and happy he was to answer all of our questions",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Mold Inspection Sciences has an exceptional reputation with universally positive reviews praising their professional, thorough inspectors, outstanding customer service, and expertise in mold assessment."
+    }
+  }
+]

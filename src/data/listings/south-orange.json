@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "mold-inspection-testing-new-jersey-south-orange",
+    "name": "Mold Inspection & Testing New Jersey",
+    "city": "south-orange",
+    "state": "NJ",
+    "address": "639 Hamilton Rd., South Orange, New Jersey 07079",
+    "lat": 40.7493851,
+    "lng": -74.2376121,
+    "phone": "201-528-3998",
+    "website": "https://moldinspectionandtest.com/new-jersey",
+    "email": "newjersey@mitmold.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Unbiased mold inspection and testing services across New Jersey, focusing on homes and businesses without remediation conflict of interest.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "indoor air quality evaluation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:21",
+    "sentiment": null
+  }
+]

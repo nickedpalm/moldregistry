@@ -1,0 +1,61 @@
+[
+  {
+    "slug": "archway-inspection-technologies-nixa",
+    "name": "Archway Inspection Technologies",
+    "city": "nixa",
+    "state": "MO",
+    "address": "184 North Apricot Cour, Nixa, MO 65714",
+    "lat": 37.0433856,
+    "lng": -93.2986635,
+    "phone": "(417) 838-8853",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Specializes in mold inspection services.",
+    "certifications": [],
+    "services": [
+      "mold inspection"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:03",
+    "sentiment": null
+  },
+  {
+    "slug": "dog-gone-services-inc-nixa",
+    "name": "Dog Gone Services Inc",
+    "city": "nixa",
+    "state": "MO",
+    "address": "143E E State Highway CC, Nixa, MO 65714-9396",
+    "lat": 37.0433856,
+    "lng": -93.2986635,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Mold removal, mildew remediation, and waterproofing services.",
+    "certifications": [],
+    "services": [
+      "mold removal",
+      "mildew remediation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:03",
+    "sentiment": null
+  }
+]

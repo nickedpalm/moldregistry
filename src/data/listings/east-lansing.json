@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "servpro-of-east-lansing-haslett-east-lansing",
+    "name": "SERVPRO of East Lansing / Haslett",
+    "city": "east-lansing",
+    "state": "MI",
+    "address": "Not provided",
+    "lat": 42.7320307,
+    "lng": -84.4721678,
+    "phone": "Not provided",
+    "website": "https://www.servpro.com/locations/mi/servpro-of-east-lansing-haslett/services/mold-remediation",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "24/7 mold removal and remediation services. Handles mold inspection through removal. Serves East Lansing, Lansing, Haslett, Okemos, Williamston, Webberville, and Meridian.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold removal",
+      "mold remediation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:45",
+    "sentiment": null
+  }
+]

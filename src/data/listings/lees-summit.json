@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "crown-home-inspections-lees-summit",
+    "name": "Crown Home Inspections",
+    "city": "lees-summit",
+    "state": "MO",
+    "address": "",
+    "lat": 38.8717779,
+    "lng": -94.1665252,
+    "phone": "913-653-0996",
+    "website": "https://crownhomeinspections.com/lees-summit-mo/mold-inspection/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Mold inspection and testing for Greater Kansas City area homes.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:03",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "thorough",
+        "professional",
+        "friendly",
+        "knowledgeable",
+        "responsive",
+        "detailed"
+      ],
+      "highlights": [
+        {
+          "text": "Professional, thorough, friendly, easy to work with. The ability to schedule online is a huge plus.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I was able to make some critical decisions based on their feedback. I would highly recommend them.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Inspector was early, very thorough, answered my questions, explained things in non-technical ways.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I received a reply in less than 10 minutes. They fixed it for me almost immediately.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Crown Home Inspections has an exceptional reputation with a 4.9/5 rating across 1,261 reviews, consistently praised for professionalism, thoroughness, expert knowledge, and outstanding customer service."
+    }
+  }
+]

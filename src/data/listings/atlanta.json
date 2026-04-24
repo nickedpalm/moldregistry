@@ -1,0 +1,309 @@
+[
+  {
+    "slug": "atlanta-mold-environmental-testing-atlanta",
+    "name": "Atlanta Mold & Environmental Testing",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.7544657,
+    "lng": -84.3898151,
+    "phone": "404-552-2707",
+    "website": "https://atlmoldtesting.com",
+    "email": "atlantamoldtesting20@gmail.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Offers mold inspections, consultations, sampling, and removal services.",
+    "certifications": [],
+    "services": [
+      "mold inspections",
+      "consultations",
+      "sampling",
+      "removal"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:13",
+    "sentiment": null
+  },
+  {
+    "slug": "fast-mold-testing-atlanta-atlanta",
+    "name": "Fast Mold Testing Atlanta",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.7544657,
+    "lng": -84.3898151,
+    "phone": "1681041439",
+    "website": "https://fastmoldtesting.com/atlanta",
+    "email": "atlanta@fastmoltesting.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Uses Marvin Lens AI technology for deep-dive inspections, provides clear reports on moisture sources and next steps; independent, no repairs.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "moisture mapping",
+      "inspections"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:13",
+    "sentiment": null
+  },
+  {
+    "slug": "lunspro-georgia-atlanta",
+    "name": "LunsPro Georgia",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.7544657,
+    "lng": -84.3898151,
+    "phone": "6249999999",
+    "website": "https://lunsprogeorgia.com/mold-air-quality-testing",
+    "email": "example@domain.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Offers mold and air quality testing suitable for real estate and rental properties.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "air quality testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:13",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "thorough",
+        "professional",
+        "knowledgeable",
+        "excellent service",
+        "highly recommended",
+        "exceeded expectations"
+      ],
+      "highlights": [
+        {
+          "text": "Tim at LunsPro was amazing! He answered all of my questions and was EXTREMELY thorough. They exceeded my expectations.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "He was very thorough, very knowledgeable, and wanted to take the time to explain everything to me.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Our report was submitted promptly after the inspection was complete, with specific details and well written notes.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Locally and family-owned since 1984, we have performed more than 100,000 inspections with over 10,000 A+ online customer reviews.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "LunsPro Georgia has an exceptionally positive reputation with customers praising their inspectors' thoroughness, professionalism, knowledge, and customer service, backed by a strong track record of 100,000+ inspections and 10,000+ A+ reviews."
+    }
+  },
+  {
+    "slug": "mill-creek-environmental-atlanta",
+    "name": "Mill Creek Environmental",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.7544657,
+    "lng": -84.3898151,
+    "phone": "1777024833",
+    "website": "https://www.millcreekenvironmental.com/mold-inspections/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Offers mold inspection services for consultation and analysis of residential and commercial properties in Greater Atlanta and North Georgia areas.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "consultation",
+      "analysis"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:13",
+    "sentiment": null
+  },
+  {
+    "slug": "mold-inspection-testing-atlanta",
+    "name": "Mold Inspection & Testing",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "Metro Atlanta area",
+    "lat": 33.7544657,
+    "lng": -84.3898151,
+    "phone": "404-907-3097",
+    "website": "https://moldinspectionandtest.com/atlanta-ga",
+    "email": "atlanta@mitmold.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Provides unbiased mold inspection and testing services without involvement in mold removal to ensure honest assessments.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:13",
+    "sentiment": null
+  },
+  {
+    "slug": "mold-inspection-sciences-atlanta",
+    "name": "Mold Inspection Sciences",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.7544657,
+    "lng": -84.3898151,
+    "phone": "+1.404.907.2179",
+    "website": "https://www.moldsci.com/locations/atlanta",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Provides mold inspection, testing, allergy testing, CIRS protocol, drinking water testing, environmental risk assessment, and monitoring; performs only inspection and testing, no remediation.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "CIRS protocol",
+      "water testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:13",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "thorough",
+        "knowledgeable",
+        "friendly",
+        "excellent communication",
+        "expertise"
+      ],
+      "highlights": [
+        {
+          "text": "outstanding experience with Mold Inspection Sciences from start to finish",
+          "sentiment": "positive"
+        },
+        {
+          "text": "If there were than 5 stars I could Joseph- I would! SO thorough, SO patient, SO nice",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Johnny and team were the ONLY inspectors that found root causes to water intrusion",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Xander was one of the most professional workers that I've ever had. So unlike most kids his age",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Mold Inspection Sciences has an exceptionally strong reputation with overwhelmingly positive reviews praising their inspectors' professionalism, thoroughness, expertise, and outstanding customer service."
+    }
+  },
+  {
+    "slug": "safeair-certified-mold-inspection-atlanta",
+    "name": "SafeAir Certified Mold Inspection",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.7544657,
+    "lng": -84.3898151,
+    "phone": "(404) 695-0673",
+    "website": "https://safeairmoldtesting.com",
+    "email": "%20inspection@safeairtesting.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Specializes in mold testing, air quality testing, consultation, and analysis for residential and commercial properties.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "air quality testing",
+      "mold inspection"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:13",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "thorough",
+        "quick/fast service",
+        "knowledgeable",
+        "clear communication",
+        "helpful"
+      ],
+      "highlights": [
+        {
+          "text": "Jeremy has been a life saver for us...got all the tests done. It was super fast",
+          "sentiment": "positive"
+        },
+        {
+          "text": "extremely professional and helpful...explaining in plain English what the test results mean",
+          "sentiment": "positive"
+        },
+        {
+          "text": "very thorough inspection and gave me great advice that resulted in successful mold remediation",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I'm very happy with the honesty and transparency of the inspection services SafeAir provided",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "SafeAir Certified Mold Inspection maintains an exceptionally strong reputation with consistently positive reviews praising Jeremy's professionalism, thoroughness, quick turnaround, and clear communication of complex mold testing results."
+    }
+  }
+]

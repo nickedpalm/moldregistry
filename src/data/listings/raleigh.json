@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "certified-indoor-air-raleigh",
+    "name": "Certified Indoor Air",
+    "city": "Raleigh",
+    "state": "NC",
+    "address": "",
+    "lat": 35.7803977,
+    "lng": -78.6390989,
+    "phone": "(919) 214-5000",
+    "website": "https://www.certifiedindoorairinc.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Mold inspection and testing services in Raleigh, NC, including thorough examinations of property for moisture, water damage, and mold growth in ducts, HVAC, and other areas.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:34",
+    "sentiment": null
+  },
+  {
+    "slug": "glover-environmental-raleigh",
+    "name": "Glover Environmental",
+    "city": "Raleigh",
+    "state": "NC",
+    "address": "",
+    "lat": 35.7803977,
+    "lng": -78.6390989,
+    "phone": "1919651161",
+    "website": "https://gloverenvironmental.com",
+    "email": "Gloverenvironmental@gmail.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Expert mold inspection and remediation services in Raleigh, NC and Triangle region, including crawl space mold removal to improve indoor air quality.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold remediation",
+      "crawl space mold removal"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:34",
+    "sentiment": null
+  }
+]

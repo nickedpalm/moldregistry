@@ -1,0 +1,133 @@
+[
+  {
+    "slug": "amelias-home-inspection-ahi-milwaukee",
+    "name": "Amelia's Home Inspection (AHI)",
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": "",
+    "lat": 43.0386475,
+    "lng": -87.9090751,
+    "phone": "(414) 698-3846",
+    "website": "https://www.ameliashomeinspection.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Mold testing and air quality testing services",
+    "certifications": [],
+    "services": [
+      "Mold Testing",
+      "Air Quality Testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:56",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.5,
+      "keywords": [],
+      "highlights": [],
+      "summary": "Insufficient review data available to assess sentiment for Amelia's Home Inspection."
+    }
+  },
+  {
+    "slug": "milwaukee-mold-inspector-division-of-honest-home-inspections-llc-milwaukee",
+    "name": "Milwaukee Mold Inspector (Division of Honest Home Inspections, LLC)",
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": "",
+    "lat": 43.0386475,
+    "lng": -87.9090751,
+    "phone": "110119-1204",
+    "website": "https://www.milwaukeemoldinspector.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Mold inspection and assessment services. Wisconsin's only Master Indoor Environmental Specialist (MIES). Does not provide mold remediation.",
+    "certifications": [],
+    "services": [
+      "Mold Inspection",
+      "Comprehensive Mold Assessment & Consulting",
+      "Indoor Air Quality Testing",
+      "Moisture Intrusion",
+      "Cause & Origin",
+      "Carbon Monoxide Testing",
+      "Volatile Organic Compound (VOC)",
+      "Post Remediation Verification (PRV)"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:56",
+    "sentiment": null
+  },
+  {
+    "slug": "tri-state-home-inspections-llc-milwaukee",
+    "name": "Tri-State Home Inspections LLC",
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": "",
+    "lat": 43.0386475,
+    "lng": -87.9090751,
+    "phone": "1234567899",
+    "website": "https://tristatehomeinspections.org",
+    "email": "tristate.org@gmail.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Mold inspection services involving careful inspection for signs of water intrusion and mold growth, typically taking about 1 hour to perform",
+    "certifications": [],
+    "services": [
+      "Mold Inspection"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:56",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "certified master inspector",
+        "comprehensive inspection",
+        "peace of mind",
+        "experienced",
+        "professional",
+        "trustworthy"
+      ],
+      "highlights": [
+        {
+          "text": "I guarantee that I will give you my very best effort. This I promise you.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "With over 10,000 inspections completed",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Your interests are my interests.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "My inspections empower you to take control of your real estate transaction",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Tri-State Home Inspections presents a highly professional and trustworthy image with strong credentials, extensive experience, and a clear commitment to customer satisfaction and thorough inspections."
+    }
+  }
+]

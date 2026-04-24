@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "acc-environmental-los-angeles",
+    "name": "ACC Environmental",
+    "city": "Los Angeles",
+    "state": "CA",
+    "address": "",
+    "lat": 34.0536909,
+    "lng": -118.242766,
+    "phone": "5150649772",
+    "website": "https://www.accenv.com",
+    "email": "general@accenv.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Leader in mold inspections, testing, and consulting with certified inspectors who have performed thousands of investigations and managed remediation projects throughout California.",
+    "certifications": [],
+    "services": [
+      "mold inspections",
+      "mold testing",
+      "mold consulting",
+      "remediation project management",
+      "prevention programs"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:20",
+    "sentiment": null
+  }
+]

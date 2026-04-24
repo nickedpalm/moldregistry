@@ -1,0 +1,165 @@
+{
+  "name": "Mold Inspectors",
+  "brandName": "MoldRegistry",
+  "slug": "moldregistry",
+  "domain": "moldregistry.com",
+  "siteUrl": "https://moldregistry.com",
+  "tagline": "Certified mold inspectors, independently rated.",
+  "description": "The most comprehensive directory of CMI- and ACAC-credentialed mold inspectors, air-quality testers, and remediation specialists in the United States.",
+  "jobValue": "$200-800 per inspection",
+  "industry": "home_services",
+  "primaryKeyword": "mold inspector",
+  "secondaryKeywords": [
+    "mold testing service",
+    "air quality testing",
+    "indoor air quality assessment",
+    "mold remediation contractor",
+    "CMI certified mold inspector",
+    "post-remediation verification"
+  ],
+  "certifications": [
+    "CMI (Certified Mold Inspector)",
+    "ACAC CMC (Council-certified Microbial Consultant)",
+    "ACAC CMRS (Council-certified Microbial Remediation Supervisor)",
+    "ACAC CIEC (Council-certified Indoor Environmental Consultant)",
+    "IAC2 Certified Indoor Air Quality Inspector",
+    "NAMRI Certified Mold Professional (CMP)"
+  ],
+  "extraFields": [],
+  "cityPagePromptContext": "Mold inspectors assess buildings for mold growth and indoor air quality issues.\nCredentialed professionals (CMI, ACAC CMC/CMRS) perform visual inspections,\nmoisture mapping, and air/surface sampling sent to third-party labs. Homeowners\nhire them during home purchase inspections, after water intrusion events\n(plumbing leaks, floods, roof damage), or when occupants have persistent\nrespiratory symptoms. Reports identify the species, extent, and likely cause,\nand recommend remediation protocols.\n",
+  "contactEmail": "contact@moldregistry.com",
+  "buyerPersona": "homeowners",
+  "servicePhrase": "mold inspection",
+  "primaryCredential": "CMI",
+  "buyerSearchContext": "when buying a home, after water damage, or when experiencing unexplained respiratory symptoms",
+  "editorialAuthor": {
+    "name": "Nick Palmer",
+    "title": "Founder & Lead Researcher",
+    "bio": "Nick built this directory to help homeowners find credentialed mold inspectors without wading through contractors who mostly want to sell remediation \u2014 a conflict of interest he ran into when trying to assess his own home after a plumbing leak.",
+    "linkedin": "https://linkedin.com/in/nickedpalmer"
+  },
+  "stripeSponsoredLink": "",
+  "stripeCityProLink": "",
+  "stripeFeaturedMonthlyLink": "https://buy.stripe.com/eVqbJ08rg7lCftOd2Fa3u3c",
+  "stripeFeaturedAnnualLink": "https://buy.stripe.com/14A4gy0YO9tK95q7Ila3u3d",
+  "stripeCityProMonthlyLink": "https://buy.stripe.com/7sY4gydLA21i2H2geRa3u3e",
+  "stripeCityProAnnualLink": "https://buy.stripe.com/9B6aEW5f45du5Te6Eha3u3f",
+  "stripeFeaturedProductId": "prod_UFN2drN4K8NpvS",
+  "stripeCityProProductId": "prod_UFN2O2cfvdNkFw",
+  "stripeFeaturedMonthlyPriceId": "price_1TPhl9CIgRyRDQ2PFgOPxkxY",
+  "stripeFeaturedAnnualPriceId": "price_1TPhlBCIgRyRDQ2PyYApLm0B",
+  "stripeCityProMonthlyPriceId": "price_1TPhlCCIgRyRDQ2Pe9aU9mw1",
+  "stripeCityProAnnualPriceId": "price_1TPhlECIgRyRDQ2PJCMN8uOO",
+  "pricing": {
+    "featuredMonthlyUsd": 49,
+    "featuredAnnualUsd": 441,
+    "cityProMonthlyUsd": 149,
+    "cityProAnnualUsd": 1341
+  },
+  "listmonkListId": "13",
+  "listmonkTplMagicLink": "29",
+  "listmonkTplLeadNotify": "30",
+  "listmonkTplGuideDelivery": "31",
+  "ga4MeasurementId": "G-DYVD9KP2XM",
+  "turnstileSitekey": "",
+  "turnsiteSitekey": "",
+  "googleAnalyticsId": "G-DYVD9KP2XM",
+  "foundedYear": 2026,
+  "listings": {
+    "schema": [
+      {
+        "key": "state_licensed",
+        "type": "boolean",
+        "label": "State Licensed Mold Inspector/Assessor",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Look for license numbers, state credentials (e.g., 'Texas TDLR License #12345'), or explicit mentions of state certification on homepage, about page, or footer."
+      },
+      {
+        "key": "years_experience",
+        "type": "number",
+        "label": "Years of Experience",
+        "display": "range",
+        "facet": false,
+        "unit": "years",
+        "scrape_hint": "Extract from 'About Us', team bios, or '15+ years serving [area]' statements; calculate from founding year if business start date is provided."
+      },
+      {
+        "key": "certifications",
+        "type": "multi_enum",
+        "label": "Professional Certifications",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "Mold Assessor Certified",
+          "IICRC MRS",
+          "Thermography Certified",
+          "IAQ Specialist",
+          "Water Testing Technician"
+        ],
+        "scrape_hint": "Scan certifications section, team credentials, or logos for IICRC, thermography institutes, IAQ training programs, or water testing credentials; match exact acronyms and full names."
+      },
+      {
+        "key": "moisture_detection_specialist",
+        "type": "boolean",
+        "label": "Moisture Detection Specialist",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Check for mentions of 'moisture mapping', 'moisture intrusion detection', 'moisture meter use', or EPA-aligned language about moisture control in services or methodology pages."
+      },
+      {
+        "key": "independent_from_remediation",
+        "type": "boolean",
+        "label": "Independent (No Remediation Ties)",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Look for statements like 'we do not perform remediation', 'unbiased third-party inspection', 'no conflict of interest', or absence of cleanup/restoration services in offerings."
+      },
+      {
+        "key": "report_turnaround",
+        "type": "enum",
+        "label": "Report Turnaround Time",
+        "display": "text",
+        "facet": true,
+        "enum": [
+          "Same Day",
+          "24-48 Hours",
+          "3-5 Business Days",
+          "1 Week+"
+        ],
+        "scrape_hint": "Extract from service descriptions, FAQs, or 'What to Expect' sections; look for phrases like 'report delivered within 24 hours' or 'results in 2 business days'."
+      },
+      {
+        "key": "service_areas",
+        "type": "multi_enum",
+        "label": "Service Types Offered",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "Residential Inspection",
+          "Commercial Inspection",
+          "Air Quality Testing",
+          "Post-Remediation Verification",
+          "Real Estate Transactions"
+        ],
+        "scrape_hint": "Parse services menu, homepage offerings, or industry-specific pages; match keywords like 'home mold inspection', 'commercial IAQ', 'clearance testing', or 'buyer/seller inspections'."
+      },
+      {
+        "key": "phone",
+        "type": "phone",
+        "label": "Phone Number",
+        "display": "text",
+        "facet": false,
+        "scrape_hint": "Extract from header, footer, contact page, or click-to-call buttons; normalize to standard format (e.g., (555) 123-4567)."
+      },
+      {
+        "key": "website",
+        "type": "url",
+        "label": "Website",
+        "display": "link",
+        "facet": false,
+        "scrape_hint": "Capture primary domain from browser address bar, homepage links, or business listings; ensure full URL with https:// protocol."
+      }
+    ]
+  }
+}

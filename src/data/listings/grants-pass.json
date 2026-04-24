@@ -1,0 +1,59 @@
+[
+  {
+    "slug": "accurate-mold-testing-llc-grants-pass",
+    "name": "Accurate Mold Testing LLC",
+    "city": "grants-pass",
+    "state": "OR",
+    "address": "",
+    "lat": 42.4393707,
+    "lng": -123.3272489,
+    "phone": "4408602150",
+    "website": "https://accuratemoldllc.com",
+    "email": "info@indiantypefoundry.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "MICRO Certified mold inspection and testing for residential and commercial properties in Rogue Valley Southern Oregon, including Josephine and Jackson Counties. Provides honest assessments, MoldScore reports via Eurofins lab, with 30 years experience in mold abatement and remediation.",
+    "certifications": [],
+    "services": [
+      "mold testing & investigation",
+      "toxic mold identification",
+      "methamphetamine residue testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:49:02",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "certified",
+        "professional",
+        "registered",
+        "mold testing",
+        "experienced",
+        "established"
+      ],
+      "highlights": [
+        {
+          "text": "Certified & Registered Mold Professionals",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Certified Mold Testing Since 2007",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Customer Testimonials",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Accurate Mold Testing LLC is a reputable, long-established mold testing company with certified professionals and positive customer testimonials."
+    }
+  }
+]

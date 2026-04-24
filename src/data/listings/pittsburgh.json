@@ -1,0 +1,48 @@
+[
+  {
+    "slug": "mold-inspection-testing-pittsburgh",
+    "name": "Mold Inspection & Testing",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "address": "232 Bigham St., Pittsburgh, Pennsylvania 15211",
+    "lat": 40.4339198,
+    "lng": -80.0151172,
+    "phone": "412-444-5374",
+    "website": "https://moldinspectionandtest.com",
+    "email": "office@mitmold.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Unbiased mold testing and inspection services using thermal imaging, moisture meters, air and surface sampling with independent lab analysis. Internachi certified inspectors available within 24 hours.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "mold inspection",
+      "indoor air quality testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:59",
+    "sentiment": {
+      "label": "mixed",
+      "score": 0.5,
+      "keywords": [
+        "feedback requested",
+        "experience evaluation",
+        "customer satisfaction"
+      ],
+      "highlights": [
+        {
+          "text": "Please Click on the Emoji that best describes your experience!",
+          "sentiment": "neutral"
+        }
+      ],
+      "summary": "No substantive reviews available; only placeholder prompts requesting customer feedback on experience."
+    }
+  }
+]

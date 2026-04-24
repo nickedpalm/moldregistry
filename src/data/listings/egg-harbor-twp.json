@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "american-mold-inspection-and-removal-llc-egg-harbor-twp",
+    "name": "American Mold Inspection and Removal LLC",
+    "city": "egg-harbor-twp",
+    "state": "NJ",
+    "address": "98 Saint Andrews Drive, Egg Harbor Twp., NJ 08234",
+    "lat": 39.584531,
+    "lng": -74.362194,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Indoor environmental remediation firm serving all NJ counties, contact Steve Polsky.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold removal"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:21",
+    "sentiment": null
+  }
+]

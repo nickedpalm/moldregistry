@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "mold-inspection-testing-winston-salem",
+    "name": "Mold Inspection & Testing",
+    "city": "winston-salem",
+    "state": "NC",
+    "address": "1524 Capps Hill Mine Rd, Charlotte, NC 28216",
+    "lat": 35.2879967,
+    "lng": -80.8587396,
+    "phone": "855-600-6653",
+    "website": "https://moldinspectionandtest.com/winston-salem-nc",
+    "email": "charlotte@mitmold.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Largest experienced mold inspection company providing unbiased services to Winston-Salem, NC and surrounding areas without conflict of interest.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:34",
+    "sentiment": null
+  }
+]

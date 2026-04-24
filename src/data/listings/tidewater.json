@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "mastertech-environmental-tidewater",
+    "name": "MasterTech Environmental",
+    "city": "tidewater",
+    "state": "VA",
+    "address": "",
+    "lat": 37.8551367,
+    "lng": -76.6985687,
+    "phone": "",
+    "website": "https://mastertech-tidewater.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Certified and licensed mold inspection company in Virginia offering comprehensive mold inspections and testing for residential and commercial properties, focusing on thorough investigations without invasive methods.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:42",
+    "sentiment": null
+  }
+]

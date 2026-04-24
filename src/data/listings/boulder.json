@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "mold-inspection-sciences-of-boulder-boulder",
+    "name": "Mold Inspection Sciences of Boulder",
+    "city": "boulder",
+    "state": "CO",
+    "address": "",
+    "lat": 40.0149856,
+    "lng": -105.270545,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Mold testing and remediation specialists serving Boulder and Denver areas.",
+    "certifications": [],
+    "services": [
+      "mold testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:10",
+    "sentiment": null
+  }
+]

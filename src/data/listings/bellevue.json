@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "pacific-northwest-inspections-group-bellevue",
+    "name": "Pacific Northwest Inspections Group",
+    "city": "bellevue",
+    "state": "WA",
+    "address": "",
+    "lat": 47.6144219,
+    "lng": -122.192337,
+    "phone": "8991233127",
+    "website": "https://www.pnwig.com",
+    "email": "info@pnwig.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Specializes in IAQ mold-related issues, water intrusion, residential and commercial inspections including mold, lead paint, asbestos, radon, VOCs, sewer scope, and blower door testing. Team of licensed and certified inspectors.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:23",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "licensed inspectors",
+        "certified professionals",
+        "comprehensive services",
+        "accredited",
+        "experienced team"
+      ],
+      "highlights": [
+        {
+          "text": "Team of Licensed and Certified Inspectors",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Asbestos Accredited and Lead Paint Certified Inspectors",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "PNWIG presents a strong professional reputation emphasizing credentials, certifications, and comprehensive inspection services across residential and commercial properties."
+    }
+  }
+]

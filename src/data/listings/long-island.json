@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "alpha-mold-inspectors-long-island",
+    "name": "Alpha Mold Inspectors",
+    "city": "long-island",
+    "state": "NY",
+    "address": "",
+    "lat": 40.8514971,
+    "lng": -73.0994297,
+    "phone": "",
+    "website": "https://www.alphamoldinspectors.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Family-owned business with over a decade of experience serving Long Island and NY Metro area. NYS licensed and insured with 24/7 emergency response and free same-day estimates.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "indoor air quality testing",
+      "24/7 emergency response",
+      "residential",
+      "commercial"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:30",
+    "sentiment": null
+  }
+]

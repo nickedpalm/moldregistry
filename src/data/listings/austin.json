@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "mold-inspection-testing-mit-austin",
+    "name": "Mold Inspection & Testing (MI&T)",
+    "city": "Austin",
+    "state": "TX",
+    "address": "",
+    "lat": 30.2711286,
+    "lng": -97.7436995,
+    "phone": "512-222-5565",
+    "website": "https://moldinspectionandtest.com/austin-tx",
+    "email": "austin@mitmold.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Unbiased mold inspection and testing services for Austin, San Antonio, and surrounding areas with a strict code of ethics.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:37",
+    "sentiment": null
+  },
+  {
+    "slug": "mold-inspection-sciences-of-texas-austin",
+    "name": "Mold Inspection Sciences of Texas",
+    "city": "Austin",
+    "state": "TX",
+    "address": "",
+    "lat": 30.2711286,
+    "lng": -97.7436995,
+    "phone": "888.335.6653",
+    "website": "https://www.moldinspectiontexas.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides mold inspection and testing services for homes and workplaces across multiple Texas cities including Austin, Dallas, Fort Worth, San Antonio, and Houston.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:37",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "knowledgeable",
+        "thorough",
+        "kind",
+        "helpful",
+        "genuine care"
+      ],
+      "highlights": [
+        {
+          "text": "Josie Williams showed a ton of professionalism and just genuine kindness, was truly concerned with us",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Kelvin was so informative and thorough. He talked us through everything and felt like he actually cared",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Super attentive, explained everything in detail and was super helpful and kind",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Roger did a wonderful and thorough job. He educated us and had wonderful customer service",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Mold Inspection Sciences of Texas has an exceptional reputation with universally positive reviews praising staff professionalism, thorough inspections, genuine care for clients, and excellent customer service across all team members."
+    }
+  },
+  {
+    "slug": "texas-mold-consultants-austin",
+    "name": "Texas Mold Consultants",
+    "city": "Austin",
+    "state": "TX",
+    "address": "",
+    "lat": 30.2711286,
+    "lng": -97.7436995,
+    "phone": "512-563-2253",
+    "website": "http://texasmoldconsultants.co",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "TDLR licensed independent mold inspection company providing mold assessment and testing services to Austin and Central Texas areas for over 33 years.",
+    "certifications": [],
+    "services": [
+      "mold assessment",
+      "mold testing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:46:37",
+    "sentiment": null
+  }
+]

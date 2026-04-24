@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "red-cedar-consulting-flint-lansing-east-lansing",
+    "name": "Red Cedar Consulting",
+    "city": "flint-lansing-east-lansing",
+    "state": "MI",
+    "address": "Not provided",
+    "lat": 0,
+    "lng": 0,
+    "phone": "Not provided",
+    "website": "https://redcedarconsulting.net/mold-inspection-services",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Residential and commercial mold inspection services. Includes structure inspection, occupant interviews, and sampling/data analysis.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "residential mold inspection",
+      "commercial mold inspection"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:45",
+    "sentiment": null
+  }
+]

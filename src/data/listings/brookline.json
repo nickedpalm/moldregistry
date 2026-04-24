@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "mold-inspection-testing-brookline",
+    "name": "Mold Inspection & Testing",
+    "city": "brookline",
+    "state": "MA",
+    "address": "9 Sewall Ave, Brookline, MA 02446",
+    "lat": 42.3406773,
+    "lng": -71.1202239,
+    "phone": "617-286-5238",
+    "website": "https://moldinspectionandtest.com/boston-ma",
+    "email": "boston@mitmold.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Unbiased mold inspection and testing services for homes and businesses in Boston and surrounding Massachusetts areas, including air and surface testing without conflict of interest.",
+    "certifications": [],
+    "services": [
+      "mold inspection",
+      "mold testing",
+      "air quality assessment"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:47:26",
+    "sentiment": null
+  }
+]

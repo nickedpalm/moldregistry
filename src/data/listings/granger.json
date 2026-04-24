@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "pure-air-indiana-granger",
+    "name": "Pure Air Indiana",
+    "city": "granger",
+    "state": "IN",
+    "address": "P.O. Box 1020, Granger, IN 46530",
+    "lat": 41.735251,
+    "lng": -86.1062763,
+    "phone": "(574) 855-8536",
+    "website": "https://pureairindiana.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Family-owned business providing mold removal, testing, remediation, odor removal, and air quality services for residential and commercial properties in Northern Indiana and Southwestern Michigan.",
+    "certifications": [],
+    "services": [
+      "mold testing",
+      "mold remediation",
+      "mold removal",
+      "odor removal"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-24 09:48:35",
+    "sentiment": null
+  }
+]
